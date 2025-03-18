@@ -1,0 +1,7 @@
+c==0.1.0
+cycler==0.11.0
+ipython==8.31.0
+matplotlib==3.8.0
+numpy==2.2.1
+pandas==2.2.3
+plotly==5.20.0
