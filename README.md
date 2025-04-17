@@ -65,7 +65,7 @@ c) "Regbl" folder is used to create the building stock from the RegBl database
 ## Main results
 
 The results are visualized using parallel coordinate plots and other graphical tools available in Bioloop. These visualizations provide insights into the relationship between key parameters and their impact on cumulative emissions and material demand.
-Available in https://www.buildinglowcarbon.com/general-5-1
+Available in https://www.buildinglowcarbon.com/toolbioloop
 
 <table>
   <tr>
